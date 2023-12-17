@@ -1,2 +1,1 @@
-# ray-trcing_project
-My MIPT C++ project in the 3rd term;
+# ray-tracing_project
